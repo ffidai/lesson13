@@ -1,3 +1,5 @@
+//utilized framework from class activity 16.3.12 & 16.3.6
+
 // SVG wrapper dimensions 
   var svgWidth = 960;
   var svgHeight = 600;
